@@ -1,0 +1,7 @@
+====================== Resource Locator =========================
+
+Resource Locator library provides utility classes for locating re
+sources like configuration files using various ways like search
+on file system, search on class path etc,
+
+
