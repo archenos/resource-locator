@@ -24,6 +24,14 @@
   	<connection>scm:git:git://github.com/archenos/resource-locator.git</connection>
 	<developerConnection>scm:git:ssh://git@github.com/archenos/resource-locator.git</developerConnection>
   </scm>
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.10</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
   <build>
   	<plugins>
   		<plugin>
